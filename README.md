@@ -1,16 +1,32 @@
 ## Hi there 👋
 
-<!--
-**dsmorgancodes/dsmorgancodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a mathematician with a Master's degree who enjoys turning abstract ideas into practical solutions.
 
-Here are some ideas to get you started:
+I work primarily with **Python** and **SQL**, and I’m especially interested in data analysis, modeling, optimization, and building clear, reliable tools for real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About me
+- 🎓 Master's degree in Mathematics
+- 🐍 Python-focused developer
+- 🗄️ SQL for querying, analysis, and data workflows
+- 📊 Interested in data science, applied math, and problem solving
+- ✨ I value work that is logical, elegant, and useful
+
+### Tech I use
+- Python
+- SQL
+- Pandas
+- NumPy
+- Jupyter
+- Data analysis
+- Statistical thinking
+- Mathematical modeling
+
+### Current focus
+- Building projects with Python and SQL
+- Strengthening my data and analytics workflows
+- Exploring applications of mathematics in software and data
+
+### Let’s connect
+- GitHub: @dsmorgancodes
+
+Thanks for stopping by!
