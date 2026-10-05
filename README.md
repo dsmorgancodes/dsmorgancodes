@@ -1,32 +1,36 @@
-## Hi there 👋
+# Hello, I’m Drew Schaffner
 
-I'm a mathematician with a Master's degree who enjoys turning abstract ideas into practical solutions.
+*Master’s in Mathematics | Python & SQL*
 
-I work primarily with **Python** and **SQL**, and I’m especially interested in data analysis, modeling, optimization, and building clear, reliable tools for real-world problems.
+---
 
-### About me
-- 🎓 Master's degree in Mathematics
-- 🐍 Python-focused developer
-- 🗄️ SQL for querying, analysis, and data workflows
-- 📊 Interested in data science, applied math, and problem solving
-- ✨ I value work that is logical, elegant, and useful
+I’m a mathematician with a Master’s degree who enjoys applying rigorous thinking to practical problems. My work is centered on **Python** and **SQL**, with interests in data analysis, mathematical modeling, optimization, and building reliable tools for working with data.
 
-### Tech I use
-- Python
-- SQL
-- Pandas
-- NumPy
-- Jupyter
-- Data analysis
-- Statistical thinking
-- Mathematical modeling
+## Areas of Interest
 
-### Current focus
+- Mathematical modeling and applied mathematics
+- Data analysis and statistics
+- Optimization and problem solving
+- Translating complex ideas into clear, usable solutions
+
+## Technical Toolkit
+
+- **Python** — analysis, automation, and problem solving
+- **SQL** — querying, data exploration, and workflow support
+- **Pandas / NumPy**
+- **Jupyter Notebooks**
+- Data-focused software development
+
+## Current Focus
+
 - Building projects with Python and SQL
 - Strengthening my data and analytics workflows
-- Exploring applications of mathematics in software and data
+- Exploring the intersection of mathematics, data, and software
 
-### Let’s connect
-- GitHub: @dsmorgancodes
+## A Bit More
 
-Thanks for stopping by!
+I value clarity, structure, and elegant solutions. Whether I’m working through a proof, a dataset, or a programming problem, I like approaches that are both rigorous and practical.
+
+---
+
+If you'd like to connect, feel free to find me here on GitHub.
