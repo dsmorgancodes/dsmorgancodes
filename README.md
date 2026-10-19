@@ -51,4 +51,4 @@ I value clarity, structure, and elegant solutions. Whether I’m working through
 
 ---
 
-If you'd like to connect, feel free to send me a message on my personal website at [dsmorgan.com/learn-more](https://www.dsmorgan.com/learn-more).
+If you'd like to connect, feel free to send me a message on my personal website at [dsmorgan.com/cv](https://www.dsmorgan.com/cv).
